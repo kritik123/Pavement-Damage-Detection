@@ -1,6 +1,6 @@
 # Pavement_condition_assessment
-##
-1.This application is based on machine learning algorithm that can be used for assessment of pavement condition and the future prospects.
+
+1. This application is based on machine learning algorithm that can be used for assessment of pavement condition and the future prospects.
 
 2. Everything will be done by Analysis of correlation & discovery of pattern by applying algorithm technique.
 
@@ -9,3 +9,5 @@
 4. The algorithm will also determine the PCI value for a given photographs.
 
 5. The entire training of ML model is done on the Google Colaboratory which gives us GPU based rendering technique to speed up the assessment of images. The training datasets is given by PMGSY and NRIDA.
+
+## This project is also contribute by Govinda Saxena (https://github.com/sarthak231020)
