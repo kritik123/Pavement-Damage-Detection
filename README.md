@@ -10,4 +10,4 @@
 
 5. The entire training of ML model is done on the Google Colaboratory which gives us GPU based rendering technique to speed up the assessment of images. The training datasets is given by PMGSY and NRIDA.
 
-## This project is also contribute by Govinda Saxena (https://github.com/sarthak231020)
+### This project is also contribute by Govinda Saxena (https://github.com/sarthak231020)
