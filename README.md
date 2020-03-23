@@ -14,3 +14,9 @@
 3. Tkinter
 
 ### This project is also contributed by Govinda Saxena (https://github.com/sarthak231020)
+
+## Screenshots
+
+![Screenshot (195)](https://user-images.githubusercontent.com/40329238/77325393-41596900-6d3e-11ea-90b2-ea4e3ac65a8b.png)
+
+![Screenshot (196)](https://user-images.githubusercontent.com/40329238/77325474-6221be80-6d3e-11ea-84aa-82f112e572dc.png)
